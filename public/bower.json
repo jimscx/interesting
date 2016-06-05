@@ -1,0 +1,20 @@
+{
+  "name": "interseting project",
+  "homepage": "https://github.com/jimscx/interesting",
+  "description": "depend on Materialize style",
+  "main": "",
+  "authors": [
+    "jimscx"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Materialize": "materialize#^0.97.6"
+  }
+}
