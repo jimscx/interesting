@@ -12,6 +12,9 @@
     "ejs": "~2.3.3",
     "express": "~4.13.1",
     "morgan": "~1.6.1",
-    "serve-favicon": "~2.3.0"
+    "serve-favicon": "~2.3.0",
+    "socket.io": "^1.4.6",
+    "mysql": "^2.10.2",
+    "sequelize": "^3.23.3"
   }
 }
