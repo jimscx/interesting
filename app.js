@@ -29,7 +29,6 @@ app.use(session({
   saveUninitialized: true,
   cookie: {
     secure: false,
-    maxAge: half_hour
   }
 }));
 app.use('/', routes);

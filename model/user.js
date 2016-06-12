@@ -17,7 +17,7 @@ var User = sequelize.define('business', {
   userEmail: { //邮箱
     type: Sequelize.STRING
   },
-  userEmail: { //邮箱
+  userBio: { //简介
     type: Sequelize.STRING
   }
 },{charset:'utf8'});
